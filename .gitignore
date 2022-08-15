@@ -1,0 +1,20 @@
+// idea
+.idea
+
+// executable
+*.exe
+*.exe~
+*.dll
+
+// main
+main
+
+// Makefile
+Makefile
+
+// replit IDE
+.replit
+replit.inx
+
+// tests
+*.test
