@@ -14,7 +14,7 @@ Makefile
 
 // replit IDE
 .replit
-replit.inx
+replit.nix
 
 // tests
 *.test
